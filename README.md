@@ -1,4 +1,4 @@
-# Hi, I'm Jhon 👋🏾 
+# Hi, I'm Jhon Jairo Portillo
 
 <img src="https://res.cloudinary.com/picasso3-1415/image/upload/v1636059215/wkkv0gytktb3zhxu5wp7.jpg" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 Design and development of electronic systems, associated with 4.0 technologies (IOT), clean energies, deployment and collection of information through the implementation of mobile application software.
